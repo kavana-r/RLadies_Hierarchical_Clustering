@@ -14,4 +14,4 @@ Clustering is the process of dividing the population into a number of groups bas
 
 ### Clustering is Subjective 
 
-![GitHub Logo] (https://github.com/kavana-r/RLadies_Hierarchical_Clustering/issues/1#issue-701531927)
+<img width="621" alt="clusteringissubjective" src="https://user-images.githubusercontent.com/29546133/93153558-821fb280-f6cf-11ea-809e-637c196997c9.png">
