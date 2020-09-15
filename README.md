@@ -63,5 +63,36 @@ Hierarchical clustering can be of 2 categories:
 
 <img width="504" alt="Screen Shot 2020-09-14 at 11 46 44 PM" src="https://user-images.githubusercontent.com/29546133/93163230-94581b80-f6e4-11ea-9c89-b6ff7ac18620.png">
 
-<img width="884" alt="Screen Shot 2020-09-14 at 11 45 15 PM" src="https://user-images.githubusercontent.com/29546133/93163254-a3d76480-f6e4-11ea-93f8-7ab9e4e57054.png">
 
+<img width="532" alt="Screen Shot 2020-09-14 at 11 51 18 PM" src="https://user-images.githubusercontent.com/29546133/93163472-36780380-f6e5-11ea-9248-b0222a4dbd1f.png">
+
+---
+### How should we choose the Number of Clusters in Hierarchical Clustering?
+
+To get the number of clusters for hierarchical clustering, we make use of a Dendrogram. A Dendrogram is a type of tree diagram showing hierarchical relationships between different sets of data.
+
+![Visual Dendogram](https://miro.medium.com/max/960/0*BfO2YN_BSxThfUoo.gif)
+
+Note:-
+
+    1. Distance between data points represents dissimilarities.
+    2. Height of the blocks represents the distance between clusters.
+
+#### Parts of Dendograms:
+
+![Dendograms Parts](https://miro.medium.com/max/738/0*ESGWAWTMwZi_xTz-.png)
+
+    - The Clades are the branch and are arranged according to how similar (or dissimilar) they are. Clades that are close to the same height are similar to each other; clades with different heights are dissimilar — the greater the difference in height, the more dissimilarity.
+    - Each clade has one or more leaves.
+    - Leaves A, B, and C are more similar to each other than they are to leaves D, E, or F.
+    - Leaves D and E are more similar to each other than they are to leaves A, B, C, or F.
+    - Leaf F is substantially different from all of the other leaves.
+
+### So when do we stop merging clusters then ? 
+
+You cut the dendrogram tree with a horizontal line at a height where the line can traverse the maximum distance up and down without intersecting the merging point.
+
+Ex.
+![Visual Dendogram Cut Off](https://miro.medium.com/max/628/0*lO30pyuAmDk6h_0T.jpg)
+
+L3 can traverse maximum distance up and down without intersecting the merging points. So we draw a horizontal line and the number of verticle lines it intersects is the optimal number of clusters.
