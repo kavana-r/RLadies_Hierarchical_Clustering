@@ -14,14 +14,14 @@ Clustering is the process of dividing the population into a number of groups bas
 
 ### Clustering is Subjective 
 
-<img width="621" alt="clusteringissubjective" src="https://user-images.githubusercontent.com/29546133/93153558-821fb280-f6cf-11ea-809e-637c196997c9.png">
+<img width="1305" alt="Screen Shot 2020-09-14 at 10 58 54 PM" src="https://user-images.githubusercontent.com/29546133/93160298-04af6e80-f6de-11ea-9fad-c6f7cc59f666.png">
 
 
 ---
 
 ### Types of Clustering
 
-<img width="690" alt="HClust" src="https://user-images.githubusercontent.com/29546133/93154991-06c00000-f6d3-11ea-9634-a822cd08ad2f.png">
+<img width="1242" alt="Screen Shot 2020-09-14 at 10 59 09 PM" src="https://user-images.githubusercontent.com/29546133/93160352-227cd380-f6de-11ea-9c08-0425b920bc33.png">
 
 ---
 
