@@ -116,6 +116,7 @@ L3 can traverse maximum distance up and down without intersecting the merging po
     
 --- 
 
-#### References 
+#### References
     
     * Business Analytics R Programming Guide
+    * Analytics Vidhya
