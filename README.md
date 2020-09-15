@@ -96,3 +96,26 @@ Ex.
 ![Visual Dendogram Cut Off](https://miro.medium.com/max/628/0*lO30pyuAmDk6h_0T.jpg)
 
 L3 can traverse maximum distance up and down without intersecting the merging points. So we draw a horizontal line and the number of verticle lines it intersects is the optimal number of clusters.
+
+---
+## Working with Messy real-world data
+
+1. Understand the Business Objective. Start by asking the following questions:
+    * Do we have assumptions of any segments we could potentially find?
+    * How are we going to use these segments? Is the goal only to understand the universe or do we want to make any operational targeting decisions based on this?
+    * How stable do we want these clusters to be over time?
+
+2. Identify the variables to cluster on and the variables to observe later as add-ons. 
+3. Spend time cleaning the dataset. 
+    * It might not always make sense to fill NA values with 0s. 
+    * If there are categorical variables, transform using dummy variables or use an algorithm such as kmodes 
+    * If there are a large number of variables, try to do a PCA first and then cluster those principle components 
+4. Try multiple algorithms even if the first one you try gives you a good measure of cluster stability. 
+    * For every version, get summary statistics for all variables (including add-on variables that did not go into the actual clustering) 
+    * Once you have this, attempt to understand each segment in terms of how it answers the Business Objective
+    
+--- 
+
+#### References 
+    
+    * Business Analytics R Programming Guide
