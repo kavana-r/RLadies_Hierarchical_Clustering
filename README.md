@@ -34,4 +34,21 @@ For K-Means the no. of clusters required at the end has to be mentioned beforeha
 
 
 ---
+---
+
+### Hierarchical Clustering
+
+Clustering algorithm which involves creating clusters that have predominant ordering from top to bottom. 
+Hierarchical clustering can be of 2 categories: 
+* bottom-up (agglomerative / additive)
+* top down (divisive)
+
+#### Aggolomerative
+
+<img width="1330" alt="Screen Shot 2020-09-14 at 10 51 20 PM" src="https://user-images.githubusercontent.com/29546133/93160011-733ffc80-f6dd-11ea-830c-d59ec6eaa48c.png">
+
+#### Divisive
+
+<img width="1333" alt="Screen Shot 2020-09-14 at 10 51 06 PM" src="https://user-images.githubusercontent.com/29546133/93160031-7c30ce00-f6dd-11ea-87d1-342db7337faf.png">
+
 
