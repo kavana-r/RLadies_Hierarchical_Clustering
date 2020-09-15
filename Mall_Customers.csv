@@ -1,0 +1,201 @@
+CustomerID,Type,Age,Annual Income (k$),Spending Score (1-100)
+1,Out of Towner,19,15,39
+2,Out of Towner,21,15,81
+3,Local,20,16,6
+4,Local,23,16,77
+5,Local,31,17,40
+6,Local,22,17,76
+7,Local,35,18,6
+8,Local,23,18,94
+9,Out of Towner,64,19,3
+10,Local,30,19,72
+11,Out of Towner,67,19,14
+12,Local,35,19,99
+13,Local,58,20,15
+14,Local,24,20,77
+15,Out of Towner,37,20,13
+16,Out of Towner,22,20,79
+17,Local,35,21,35
+18,Out of Towner,20,21,66
+19,Out of Towner,52,23,29
+20,Local,35,23,98
+21,Out of Towner,35,24,35
+22,Out of Towner,25,24,73
+23,Local,46,25,5
+24,Out of Towner,31,25,73
+25,Local,54,28,14
+26,Out of Towner,29,28,82
+27,Local,45,28,32
+28,Out of Towner,35,28,61
+29,Local,40,29,31
+30,Local,23,29,87
+31,Out of Towner,60,30,4
+32,Local,21,30,73
+33,Out of Towner,53,33,4
+34,Out of Towner,18,33,92
+35,Local,49,33,14
+36,Local,21,33,81
+37,Local,42,34,17
+38,Local,30,34,73
+39,Local,36,37,26
+40,Local,20,37,75
+41,Local,65,38,35
+42,Out of Towner,24,38,92
+43,Out of Towner,48,39,36
+44,Local,31,39,61
+45,Local,49,39,28
+46,Local,24,39,65
+47,Local,50,40,55
+48,Local,27,40,47
+49,Local,29,40,42
+50,Local,31,40,42
+51,Local,49,42,52
+52,Out of Towner,33,42,60
+53,Local,31,43,54
+54,Out of Towner,59,43,60
+55,Local,50,43,45
+56,Out of Towner,47,43,41
+57,Local,51,44,50
+58,Out of Towner,69,44,46
+59,Local,27,46,51
+60,Out of Towner,53,46,46
+61,Out of Towner,70,46,56
+62,Out of Towner,19,46,55
+63,Local,67,47,52
+64,Local,54,47,59
+65,Out of Towner,63,48,51
+66,Out of Towner,18,48,59
+67,Local,43,48,50
+68,Local,68,48,48
+69,Out of Towner,19,48,59
+70,Local,32,48,47
+71,Out of Towner,70,49,55
+72,Local,47,49,42
+73,Local,60,50,49
+74,Local,60,50,56
+75,Out of Towner,59,54,47
+76,Out of Towner,26,54,54
+77,Local,45,54,53
+78,Out of Towner,40,54,48
+79,Local,23,54,52
+80,Local,49,54,42
+81,Out of Towner,57,54,51
+82,Out of Towner,38,54,55
+83,Out of Towner,67,54,41
+84,Local,46,54,44
+85,Local,21,54,57
+86,Out of Towner,48,54,46
+87,Local,55,57,58
+88,Local,22,57,55
+89,Local,34,58,60
+90,Local,50,58,46
+91,Local,68,59,55
+92,Out of Towner,18,59,41
+93,Out of Towner,48,60,49
+94,Local,40,60,40
+95,Local,32,60,42
+96,Out of Towner,24,60,52
+97,Local,47,60,47
+98,Local,27,60,50
+99,Out of Towner,48,61,42
+100,Out of Towner,20,61,49
+101,Local,23,62,41
+102,Local,49,62,48
+103,Out of Towner,67,62,59
+104,Out of Towner,26,62,55
+105,Out of Towner,49,62,56
+106,Local,21,62,42
+107,Local,66,63,50
+108,Out of Towner,54,63,46
+109,Out of Towner,68,63,43
+110,Out of Towner,66,63,48
+111,Out of Towner,65,63,52
+112,Local,19,63,54
+113,Local,38,64,42
+114,Out of Towner,19,64,46
+115,Local,18,65,48
+116,Local,19,65,50
+117,Local,63,65,43
+118,Local,49,65,59
+119,Local,51,67,43
+120,Local,50,67,57
+121,Out of Towner,27,67,56
+122,Local,38,67,40
+123,Local,40,69,58
+124,Out of Towner,39,69,91
+125,Local,23,70,29
+126,Local,31,70,77
+127,Out of Towner,43,71,35
+128,Out of Towner,40,71,95
+129,Out of Towner,59,71,11
+130,Out of Towner,38,71,75
+131,Out of Towner,47,71,9
+132,Out of Towner,39,71,75
+133,Local,25,72,34
+134,Local,31,72,71
+135,Out of Towner,20,73,5
+136,Local,29,73,88
+137,Local,44,73,7
+138,Out of Towner,32,73,73
+139,Out of Towner,19,74,10
+140,Local,35,74,72
+141,Local,57,75,5
+142,Out of Towner,32,75,93
+143,Local,28,76,40
+144,Local,32,76,87
+145,Out of Towner,25,77,12
+146,Out of Towner,28,77,97
+147,Out of Towner,48,77,36
+148,Local,32,77,74
+149,Local,34,78,22
+150,Out of Towner,34,78,90
+151,Out of Towner,43,78,17
+152,Out of Towner,39,78,88
+153,Local,44,78,20
+154,Local,38,78,76
+155,Local,47,78,16
+156,Local,27,78,89
+157,Out of Towner,37,78,1
+158,Local,30,78,78
+159,Out of Towner,34,78,1
+160,Local,30,78,73
+161,Local,56,79,35
+162,Local,29,79,83
+163,Out of Towner,19,81,5
+164,Local,31,81,93
+165,Out of Towner,50,85,26
+166,Local,36,85,75
+167,Out of Towner,42,86,20
+168,Local,33,86,95
+169,Local,36,87,27
+170,Out of Towner,32,87,63
+171,Out of Towner,40,87,13
+172,Out of Towner,28,87,75
+173,Out of Towner,36,87,10
+174,Out of Towner,36,87,92
+175,Local,52,88,13
+176,Local,30,88,86
+177,Out of Towner,58,88,15
+178,Out of Towner,27,88,69
+179,Out of Towner,59,93,14
+180,Out of Towner,35,93,90
+181,Local,37,97,32
+182,Local,32,97,86
+183,Out of Towner,46,98,15
+184,Local,29,98,88
+185,Local,41,99,39
+186,Out of Towner,30,99,97
+187,Local,54,101,24
+188,Out of Towner,28,101,68
+189,Local,41,103,17
+190,Local,36,103,85
+191,Local,34,103,23
+192,Local,32,103,69
+193,Out of Towner,33,113,8
+194,Local,38,113,91
+195,Local,47,120,16
+196,Local,35,120,79
+197,Local,45,126,28
+198,Out of Towner,32,126,74
+199,Out of Towner,32,137,18
+200,Out of Towner,30,137,83
