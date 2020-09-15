@@ -36,7 +36,7 @@ For K-Means the no. of clusters required at the end has to be mentioned beforeha
 ---
 ---
 
-### Hierarchical Clustering
+## Hierarchical Clustering
 
 Clustering algorithm which involves creating clusters that have predominant ordering from top to bottom. 
 Hierarchical clustering can be of 2 categories: 
@@ -51,4 +51,17 @@ Hierarchical clustering can be of 2 categories:
 
 <img width="1333" alt="Screen Shot 2020-09-14 at 10 51 06 PM" src="https://user-images.githubusercontent.com/29546133/93160031-7c30ce00-f6dd-11ea-87d1-342db7337faf.png">
 
+---
+
+### So, how are we measuring SIMILARITY?
+
+1. Single-linkage: the distance between two clusters is defined as the shortest distance between two points in each cluster
+2. Complete-linkage: the distance between two clusters is defined as the longest distance between two points in each cluster.
+3. Average-linkage: the distance between two clusters is defined as the average distance between each point in one cluster to every point in the other cluster.
+4. Centroid-linkage: finds the centroid of cluster 1 and centroid of cluster 2, and then calculates the distance between the two before merging.
+5. Wards-linkage: instead of measuring the distance directly, it analyzes the variance of clusters. Ward’s method says that the distance between two clusters, A and B, is how much the sum of squares will increase when we merge them. 
+
+<img width="504" alt="Screen Shot 2020-09-14 at 11 46 44 PM" src="https://user-images.githubusercontent.com/29546133/93163230-94581b80-f6e4-11ea-9c89-b6ff7ac18620.png">
+
+<img width="884" alt="Screen Shot 2020-09-14 at 11 45 15 PM" src="https://user-images.githubusercontent.com/29546133/93163254-a3d76480-f6e4-11ea-93f8-7ab9e4e57054.png">
 
